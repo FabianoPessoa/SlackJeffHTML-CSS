@@ -1,0 +1,26 @@
+====================================
+____ Sites com SlackJaeff __________
+------------------------------------
+$ git clone https://github.com/FabianoPessoa/SlackJeffHTML-CSS.git
+Link para o curso:
+https://slackjeff.com.br/area-do-aluno/login/?lang=pt_br
+Site para estudos de HTML
+https://www.w3schools.com/html/
+
+=======================================
+Ideia para Criação da página
+-----------------------------------
+Menu Inicial
+* Início
+* Sobre
+* Contato
+* Agenda
+
+=====> Foto
+
+= Sobre
+Seja bem vindo ao website
+= Contato
+Email: contato@joaoband.com.br
+= Agenta
+Loca - Cidade - Data
